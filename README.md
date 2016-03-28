@@ -1,4 +1,4 @@
-# Deppbot - Automated Security and Dependency Updates
+# deppbot - Automated Security and Dependency Updates
 
 deppbot ensures that your Ruby applications are kept updated, always!
 
