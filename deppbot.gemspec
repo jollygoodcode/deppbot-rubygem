@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["katehuang0320+deppbot@gmail.com", "winston.yongwei+deppbot@gmail.com"]
 
   spec.summary       = %(deppbot - Automated Security and Dependency Updates for Ruby Apps)
-  spec.description   = %(deppbot ensures that your Ruby applications are kept updated, always! Based on your configured schedule, deppbot will run bundle update on your Ruby app and send the result as a Pull Request to GitHub. deppbot will also check your app periodically for any RubyGem vulnerabilities and fix it automagically. As seen on https://github.com/integrations/deppbot, https://stackshare.io/deppbot.)
+  spec.description   = %(deppbot ensures that your Ruby applications are kept updated, always! Based on your configured schedule, deppbot will run bundle update on your Ruby app and send the result as a Pull Request to GitHub. deppbot will also check your app periodically for any RubyGem vulnerabilities and fix it automagically. As seen on https://github.com/integrations/deppbot, http://stackshare.io/deppbot/deppbot, and https://www.siftery.com/deppbot.)
   spec.homepage      = "https://www.deppbot.com"
   spec.license       = "MIT"
 

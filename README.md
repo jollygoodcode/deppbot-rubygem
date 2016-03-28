@@ -51,7 +51,7 @@ View an example of a [deppbot Pull Request on Ruby Bench](https://github.com/rub
 
   [![https://github.com/integrations/deppbot](images/github_integration.png)](https://github.com/integrations/deppbot)
 
-- [On stackshare](http://stackshare.io/deppbot)
+- [On stackshare](http://stackshare.io/deppbot/deppbot)
 - [On siftery](https://www.siftery.com/deppbot)
 
 ## Contact Us
